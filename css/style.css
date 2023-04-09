@@ -1,0 +1,75 @@
+
+
+header{
+	background-color: darkred;
+	padding-top: 30px;
+	padding-bottom: 30PX;
+	padding-left: 200PX;
+	color: white;
+	font-family: arial;
+	font-size: 30px;
+
+}
+
+
+FOOTER{
+	background-color: black;
+	padding-top: 30px;
+	padding-bottom: 30PX;
+	padding-left: 200PX;
+	color: white;
+	font-family: arial;
+	font-size: 20px;
+
+}
+
+
+H2{
+	padding-left: 200px;
+	font-family: arial;
+}
+
+pre{
+	padding-left: 200px;
+	font-family: arial;
+}
+
+
+form{
+	padding-left: 200px;
+}
+
+
+input{
+	margin-top: 10px;
+	padding-right: 50px;
+	padding-left: 10px;
+	padding-top: 8px;
+	padding-bottom: 8px;
+	
+}
+
+
+textarea{
+	margin-top: 10px;
+	padding-right: 240px;
+	padding-left: 10px;
+	padding-top: 8px;
+	padding-bottom: 150px;
+}
+
+
+.y1{
+	margin-bottom: 50px;
+	padding: 5px;
+
+
+}
+
+
+
+
+
+
+
+
